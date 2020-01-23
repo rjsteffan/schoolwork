@@ -2,7 +2,6 @@
 //Date: 1/16/2020
 //Program Name: Steffan_Drone
 //Purpose: Simulation using button, drone movement in x,y,z location
-// 
 
 package ch1;
 
